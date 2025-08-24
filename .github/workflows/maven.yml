@@ -1,5 +1,7 @@
 # This workflow builds a Java project using Maven,
 # caches dependencies, and submits the dependency graph to GitHub.
+# This workflow builds a Java project using Maven,
+# caches dependencies, and submits the dependency graph to GitHub.
 
 name: Java CI with Maven
 
